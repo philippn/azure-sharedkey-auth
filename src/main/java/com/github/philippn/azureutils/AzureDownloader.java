@@ -31,7 +31,7 @@ import com.google.common.io.ByteSink;
 import com.google.common.io.Files;
 
 /**
- * This program can be used to download a file from an Azure blob container using {@code SharedKey} authorization.
+ * This program can be used to download files from an Azure blob container using {@code SharedKey} authorization.
  * @see <a href="https://docs.microsoft.com/en-us/rest/api/storageservices/authorize-with-shared-key">Authorize with Shared Key</a>
  * @author nanz0phi
  */
